@@ -1,1 +1,1 @@
-# titash is attempting to generate a static website!
+## list of my projects
